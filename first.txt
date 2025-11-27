@@ -1,2 +1,2 @@
 First line in the file is the most important one!
-A new line to test to test slave branch.
+A new line to test slave branch.
